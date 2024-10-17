@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **about web development, exploring its creative and technical aspects to build engaging digital experiences.**
 
-- 🌐 Check out my portfolio: [My Portfolio](ishikacasley14.github.io/portfolio/)
+- 🌐 Check out my portfolio: [My Portfolio](https://ishikacasley14.github.io/portfolio/)
 
 - 📫 How to reach me **Ishikacasley764@gmail.com**
 
