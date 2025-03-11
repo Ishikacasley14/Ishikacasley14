@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishika Casley</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/52/ca/49/52ca49ba08c6c14ed904a5d577a98a19.jpg" width=50% title="Hi, nice to meet you!">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500">
+<br><br>
+
 </p>
 <p align="center">
   <a href="mailto:ishikacasley764@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
