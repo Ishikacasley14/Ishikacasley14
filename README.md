@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ishika Casley</h1>
-<p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500">
-<br><br>
-
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+   <h1>Hi there, I'm <a href="https://github.com/ayushichoudhary-19/">Ishika</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </p>
 <p align="center">
   <a href="mailto:ishikacasley764@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
