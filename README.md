@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-  <h1>Hi there, I'm <a href="https://github.com/Ishikacasley14/">Ishika </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1>Hi there, I'm <a href="https://github.com/Ishikacasley14/">Ishika Casley </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
 <p align="center">
