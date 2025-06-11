@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=2000&color=F7931E&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Ishika+Casley!;Web+Dev+%F0%9F%92%BB+%7C+AI+Explorer+%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F" alt="Typing SVG" />
   <h3 align="center"> Frontend Dev | Tech Explorer</h3>
-  <img align="center" width="400" src="https://github.com/mistaluai/mistaluai/blob/main/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?raw=true" alt="coding gif">
+ <img align="center" width="400" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" alt="coding gif">
 </div>
 
 ---
