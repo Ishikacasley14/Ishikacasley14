@@ -45,7 +45,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishikacasley14&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikacasley14&layout=compact&langs_count=6&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Ishikacasley14&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
+
 
 ---
 
