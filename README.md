@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=2000&color=F7931E&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Ishika+Casley!;Web+Dev+%F0%9F%92%BB+%7C+AI+Explorer+%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F" alt="Typing SVG" />
-  <h3 align="center"> Frontend Dev | Tech Explorer</h3>
- <img align="center" width="400" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" alt="coding gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Ishika+Casley!;Web+Dev+%F0%9F%92%BB+%7C+AI+Explorer+%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F" alt="Typing SVG" />
+  <h3 align="center"> Machine Learning | AI Explorer</h3>
+ <img align="center" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4MTM0MzksIm5iZiI6MTc1ODgxMzEzOSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI1VDE1MTIxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjMGJiMDhjN2M5N2M1MjRhMzhiZDI4NzQyZTM0NGM1M2YyM2YwNDc3N2E5MjRiNTVjOWFkYTZjNTgwZTRlYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Pq2kQB62H7mFIFE2ynoPzL4EPGs8v6C3zIbRHQ-CmIk" alt="coding gif">
 </div>
 
 ---
