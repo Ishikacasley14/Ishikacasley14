@@ -8,7 +8,7 @@
 
 ### ✨ About Me
 - 🎓 MCA'25 from **IGDTUW**, BSc. (Hons) CS from **DU**
-- 💻 Passionate about **Frontend Dev**, **AI Projects** & building digital experiences  
+- 💻 Passionate about **Machine learning**, **AI Projects** & building digital experiences  
 - 🌐 Portfolio: [ishikacasley14.github.io/portfolio](https://ishikacasley14.github.io/portfolio/)
 - 📬 Reach me at: **ishikacasley764@gmail.com**
 - 🧠 Currently learning: **Backend Dev (Node.js, MongoDB)** and **Open Source Contributions**
